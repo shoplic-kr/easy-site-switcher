@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+.vscode
+
+/tests-core
+/tests-lib
+vendor
+
+*.cache
+*.swp
